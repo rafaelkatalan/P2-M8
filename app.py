@@ -1,9 +1,6 @@
-import pyttsx3
 from gtts import gTTS
 from io import BytesIO
 import pygame
-
-engine = pyttsx3.init()
 
 pygame.mixer.init()
 
